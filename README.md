@@ -1,4 +1,4 @@
-There are 2 R codes for this repository.
+There are 2 R codes for selecting the best performing WRF model configuration among a number of simulations done with various physics options, initialization data, external datasets for landuse or SST.
 
 # Script 1. WRF_ConfigSel_SigTesting_3cases_LST_AMET_spatialsurface.R
 
